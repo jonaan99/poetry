@@ -3154,6 +3154,9 @@ input, select, textarea {
 			border-color: #403F39;
 		}
 
+		.spotlight.style5 .content {
+			border-color: #403F39;
+		}
 		.spotlight.inactive .content {
 			opacity: 0;
 		}
