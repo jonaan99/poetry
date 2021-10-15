@@ -3139,24 +3139,21 @@ input, select, textarea {
 		}
 
 		.spotlight.style1 .content {
-			border-color: #043459;
+			border-color: #5480f1;
 		}
 
 		.spotlight.style2 .content {
-			border-color: #543C4A;
+			border-color: #fa5c76;
 		}
 
 		.spotlight.style3 .content {
-			border-color: #7B394A;
+			border-color: #39c088;
 		}
 
 		.spotlight.style4 .content {
-			border-color: #403F39;
+			border-color: #A67159;
 		}
 
-		.spotlight.style5 .content {
-			border-color: #403F39;
-		}
 		.spotlight.inactive .content {
 			opacity: 0;
 		}
